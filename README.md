@@ -1,8 +1,9 @@
 # 6일차부터 있을 시험 안내
 
-### 플로우차트 & 코드
-관련내용이 담긴 문서 링크
-
+### 플로우차트 & 코드 시험문제 3개
+https://claude.ai/public/artifacts/32d909a3-baf9-415d-8c7f-88665d73cffe
+https://claude.ai/public/artifacts/4a4b8c6f-b910-4886-848a-df0a972fcec4
+https://claude.ai/public/artifacts/a8b14a09-9af9-4d88-9623-e1128c72d5a1
 
 타원으로 출발, 타원으로 도착 / 분기는 마름모 / 입출력 함수 블랙박스는 평행사변형
 
